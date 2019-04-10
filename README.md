@@ -32,6 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   print(i)`
   
 [mini project 01 - data science stuff...](https://pra-kri.github.io/decision_tree_mini_project/)
+
 [same material, but linked to project_1 folder within same repository](https://pra-kri.github.io/2019_projects/folder1/)
 
 ### Jekyll Themes
