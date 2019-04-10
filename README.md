@@ -30,6 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 `for i in range(10):
   print(i)`
+  
+[mini project 01 - data science stuff...](https://pra-kri.github.io/decision_tree_mini_project/)
 
 ### Jekyll Themes
 
