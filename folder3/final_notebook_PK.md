@@ -50,7 +50,7 @@ pass
 
 
 ```python
-employee_data = pd.read_csv("C:\Users\Prabesh K\Desktop\Projects\QuantSpark\HR_comma_sep.csv")
+employee_data = pd.read_csv("C:\Users\Prabesh K\Desktop\Projects\EmployeeAnalysis\HR_comma_sep.csv")
 ```
 
 
