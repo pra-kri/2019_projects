@@ -35,6 +35,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [same material, but linked to project_1 folder within same repository](https://pra-kri.github.io/2019_projects/folder1/)
 
+[now, test markdown .md files from sub-directory...](https://pra-kri.github.io/2019_projects/folder2/test123)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pra-kri/2019_projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
